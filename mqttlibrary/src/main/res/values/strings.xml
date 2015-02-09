@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MqttLibrary</string>
+    <string name="title_activity_call_me">CallMeActivity</string>
+    <string name="mqtt_hello_world">Nihao!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
